@@ -1,0 +1,15 @@
+Exam instruction:
+
+1. Convert the web-designer-exam.png image file into a tableless (not using HTML table) webpage (HTML/CSS code). You may use any HTML editors for the web page coding.
+2. Get the content from the content.doc Word document file and the images from the images folder.
+3. Use external/separate CSS file for the webpage layout.
+4. Place all images in a single folder using the filename "img".
+5. For the title tag, use "Practical Exam" as the title.
+6. Use "Arial" for the font face.
+7. Follow the same images dimension and font sizes as the png image file. 
+8. Make the layout responsive.
+9. Apply simple drop down menu script.
+10. Save your work using this format below:
+   lastname-December-09-2022-friday.html (your lastname, date, day of the week)
+
+Thank you!
